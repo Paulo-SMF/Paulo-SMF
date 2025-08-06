@@ -1,12 +1,13 @@
 ## Bem Vindo!
 <p>
-  <a href="https://github.com/Paulo-SMF">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paulo-SMF&theme=tokyonight&custom_title=Paulo&show_icons=true&hide_border=false"/>
+  <a href="https://github.com/Paulo-SMF"><img src="https://github-readme-stats.vercel.app/api?username=Paulo-SMF&theme=midnight-purple&custom_title=Paulo&show_icons=true&hide_border=false"/></a>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-SMF&theme=tokyonight&layout=compact&hide_border=false"/>
-  </a>
+  <a href="https://github.com/Paulo-SMF"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-SMF&theme=midnight-purple&layout=compact&hide_border=false"/></a>
 </p>
 
 ##
+<div>
+  <a href="https://www.linkedin.com/in/paulo-sérgio-m-a2456430a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+</div>
 
-<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
