@@ -1,16 +1,12 @@
-## Hi there 👋
+## Bem Vindo!
+<p>
+  <a href="https://github.com/Paulo-SMF">
+  <img src="https://github-readme-stats.vercel.app/api?username=Paulo-SMF&theme=tokyonight&custom_title=Paulo&show_icons=true&hide_border=false"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo-SMF&theme=tokyonight&layout=compact&hide_border=false"/>
+  </a>
+</p>
 
-<!--
-**Paulo-SMF/Paulo-SMF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
