@@ -1,4 +1,4 @@
-## Bem Vindo!
+## Bem Vindo! || Welcome!
 <p>
   <a href="https://github.com/Paulo-SMF"><img src="https://github-readme-stats.vercel.app/api?username=Paulo-SMF&theme=midnight-purple&custom_title=Paulo%20Stats&show_icons=true&hide_border=false"/></a>
   &nbsp;
